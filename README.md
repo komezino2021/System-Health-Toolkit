@@ -22,7 +22,7 @@ Created for IT Technicians who need fast system diagnostics.
 ## 🛠️ Usage
 Clone the repo:
 ```bash
-git clone https://github.com/komezino2021/System-Health-Toolkit.git
+git clone https://github.com/yourusername/System-Health-Toolkit.git
 ```
 
 Run PowerShell scripts:
